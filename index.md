@@ -24,3 +24,8 @@ In strong partnership with the NobleReach Foundation, CMU will develop, package,
 #### Skills
 #### Learning Objectives
 #### Syllabus
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
