@@ -30,7 +30,6 @@ In strong partnership with the NobleReach Foundation, CMU will develop, package,
 #### Syllabus
 
 
-
-``` javascript
-var myVar = "Hello, world!";
-```
+- [ ] format syllabi
+- [ ] add syllabi to page
+- [ ] add skills and learning objectives for each course
